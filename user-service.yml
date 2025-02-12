@@ -4,5 +4,5 @@ spring:
   application:
     name: user-service
 jwt:
-  secret: SOhbFcFtwngj4BzaEWl7m6sPhCDUv3GapYJWWIwaFes
+  secret: BXxN7EwoTY6c4WoxVxEhdQTG6dHJ4NZWlqEyJlMN7F8OJzpK6xqA5yZQMkm5Vr1T
   expiration: 86400000 # 1 day in milliseconds

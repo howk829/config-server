@@ -3,3 +3,6 @@ server:
 spring:
   application:
     name: user-service
+  jwt:
+    secret: SOhbFcFtwngj4BzaEWl7m6sPhCDUv3GapYJWWIwaFes
+    expiration: 86400000 # 1 day in milliseconds
